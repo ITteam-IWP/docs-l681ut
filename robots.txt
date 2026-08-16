@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-yk9ujj.nuansa138win.cfd/sitemap.xml
